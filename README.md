@@ -1,2 +1,3 @@
 # Animals
-Hi, it's just my coursework!
+Hi!
+it's just my coursework.
